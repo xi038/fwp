@@ -5,7 +5,22 @@
         "url": "https://www.wpp.com"
     },
     {
-        "name": "Manchester United",
+        "name": "Barcelona",
+        "flag": "https://assets.webiconspng.com/uploads/2017/09/Fc-Barcelona-PNG-Image-33667-300x300.png",
+        "url": "https://www.wpp.com"
+    },
+    {
+        "name": "Inter Milan",
+        "flag": "https://www.stickpng.com/assets/images/584aaf7130d6736bca3d6ded.png",
+        "url": "https://www.wpp.com"
+    },
+    {
+        "name": "Juventus",
+        "flag": "https://image.flaticon.com/icons/png/512/738/738693.png",
+        "url": "https://www.wpp.com"
+    },
+    {
+        "name": "Manchester City",
         "flag": "https://pluspng.com/img-png/manchester-city-fc-png-manchester-city-fc-png-1024.png",
         "url": "https://www.wpp.com"
     },
