@@ -5,6 +5,16 @@
         "url": "https://www.wpp.com"
     },
     {
+        "name": "Tottenham",
+        "flag": "https://www.logofootball.net/wp-content/uploads/tottenham-hotspur-fc-logo.png",
+        "url": "https://www.wpp.com"
+    },
+    {
+        "name": "Real Madrid",
+        "flag": "https://cdn.freebiesupply.com/logos/large/2x/real-madrid-c-f-logo-png-transparent.png",
+        "url": "https://www.wpp.com"
+    },
+    {
         "name": "Manchster United",
         "flag": "https://pluspng.com/img-png/manchester-united-logo-png-download-1280.png",
         "url": "https://www.wpp.com"
